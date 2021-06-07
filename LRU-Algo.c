@@ -7,9 +7,9 @@
 
 /*
 	ASSIGNMENT:
-	1. write a program that implements the LRU page-replacement algorithms presented in chapter 8
+	1. write a program that implements the LRU page-replacement algorithms
 	2. Use the counter implementation
-	3. w/o command line parameters, the default reference string should be [7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1]
+	3. without command line parameters, the default reference string should be [7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1]
 		and should have 3 memory frames
 	4. program should take the following parameters from the command line:
 		a. number of frames
