@@ -6,6 +6,10 @@
 #include <stdbool.h>
 
 /*
+	PROJECT:
+		Created By: Matthew King
+		Purpose: Using an LRU algorithm to return the number of page faults of a specific reference string
+	
 	ASSIGNMENT:
 	1. write a program that implements the LRU page-replacement algorithms
 	2. Use the counter implementation
