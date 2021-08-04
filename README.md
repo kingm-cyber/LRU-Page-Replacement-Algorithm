@@ -1,5 +1,5 @@
 # LRU-Page-Replacement-Algorithm
-This is a least recently used (LRU) page replacement algorithm that prints text-based graphics to the CLI. This project was made for an applied operating systems class.
+This is a least recently used (LRU) page replacement algorithm that prints text-based graphics to the CLI.
 Outputs the number of page faults after the algorithm has finished page replacements.
 
 Usage:
